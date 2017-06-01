@@ -5,7 +5,7 @@ This directory contains the output of a T-SNE processing chain and a bokeh serve
 ## Requirements
 
 - Python 3.x
-- >= Bokeh 0.12.3
+- Bokeh 0.12.3 or greater
 - Numpy
 - Dask
 
